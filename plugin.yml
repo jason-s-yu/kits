@@ -1,0 +1,9 @@
+main: kits.Main
+name: Kits
+version: 1.0
+authors: [DojmGubbeN, JasonFTW]
+depend: [OreEconomy, CrackShot]
+commands:
+  kit:
+  kitsreload:
+  kits:
